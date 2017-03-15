@@ -11,11 +11,6 @@ img {
     vertical-align: middle;
 }
 
-a {
-    text-decoration: none !important;
-    color:black !important;
-}
-
 .icon {
     font-size: 3em;
 }
@@ -32,6 +27,11 @@ a {
 .table {
     display: flex;
     align-items: center;
+}
+
+.link-without-style {
+    text-decoration: none !important;
+    color:black !important;
 }
 
 #about {
